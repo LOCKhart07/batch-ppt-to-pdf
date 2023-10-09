@@ -34,7 +34,7 @@ def convert_files_in_folder(powerpoint, folder):
 
         counter += 1
 
-    print("List of failed files: {failed}")
+    print(f"List of failed files: {failed}")
 
 
 if __name__ == "__main__":
